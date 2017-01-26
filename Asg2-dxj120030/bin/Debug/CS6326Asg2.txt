@@ -1,0 +1,2 @@
+Harry	Potter		4 Privet Dr.		Richardson	TX	75080	9728838833	chosen1@hogwarts.edu	False	11/14/2001 12:00:00 AM	20:48:54	20:49:28
+Martin	King, Jr.	L	1963 Dream St.		Equality City	DC	82863	1234567890	mlk@gmail.com	True	8/28/1963 12:00:00 AM	15:33:32	15:35:04
