@@ -28,7 +28,7 @@ namespace Asg2_dxj120030
          */
         public TechnicalServices()
         {
-            try { if (!File.Exists(filePath)) File.Create(filePath); }
+            try { if (!File.Exists(filePath)) File.Create(filePath).Close(); }
             catch (Exception) { throw new Exception("Urgent! We weren't able to connect to the server to save rebate information. Please contact your administrator."); }
         }
 
